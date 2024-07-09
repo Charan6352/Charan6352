@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **Amazon website**
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **AWS Devops**
 
 - 📫 How to reach me **Kanajamsai6352@gmail.com**
