@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **Amazon website**
 
-- 💬 Ask me about **AWS Devops**
-
 - 📫 How to reach me **Kanajamsai6352@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
